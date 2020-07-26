@@ -1,4 +1,4 @@
 variable "region" {}
 variable "user" {}
-variable "label" {}
+variable "zone" {}
 variable "app" {}
